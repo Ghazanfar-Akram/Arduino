@@ -1,1 +1,2 @@
-This is arduino, the future of mechatronics...
+This repository contains my Arduino projects. 
+Stay Tuned!
